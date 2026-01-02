@@ -1,2 +1,11 @@
-# machine-learning-notes
-machine-learning-notes
+# code
+## code
+- 偏差-方差分解（进行中）
+- BP
+- CNN
+- decision_tree
+- K_means
+- KNN
+- Logistics_Regression
+- SVM
+- SVR
